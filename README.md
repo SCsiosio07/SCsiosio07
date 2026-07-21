@@ -1,4 +1,4 @@
-<img src="banniere-github.png" alt="Bannière Alessio" width="100%">## Hi there 👋
+<img src="11_Banniere_Github.png" alt="Bannière Alessio" width="100%">
 
 <!--
 **SCsiosio07/SCsiosio07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
